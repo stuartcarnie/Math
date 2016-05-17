@@ -21,7 +21,7 @@
 
 
 import XCTest
-import SGLMath
+@testable import SGLMath
 
 class Matrix4x4Tests: XCTestCase {
 

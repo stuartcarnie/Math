@@ -21,7 +21,7 @@
 
 
 import XCTest
-import SGLMath
+@testable import SGLMath
 
 class Vector4Tests: XCTestCase {
 
